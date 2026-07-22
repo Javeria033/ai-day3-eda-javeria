@@ -30,3 +30,6 @@ E-Commerce Customer Dataset with features:
 ## Author
 - **Name:** Javeria
 - **Date:** July 2026
+- 
+## Status
+Project completed on July 22, 2026
